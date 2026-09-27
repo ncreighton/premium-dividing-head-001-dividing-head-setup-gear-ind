@@ -1,0 +1,2 @@
+# premium-dividing-head-001-dividing-head-setup-gear-ind
+Tired of fumbling through tables and risking costly indexing errors every time you set up your dividing head? This Notion hub eliminates guesswork by centralizing all your gear ratios, hole circles, and setup data into one instantly accessible workspace.  It replaces scattered notes and worn-out reference cards with a living database that updates w
